@@ -322,8 +322,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color:  #000000 !important;
+  border-color:  #000000 !important;
   color: #fff !important;
 }
 
@@ -353,7 +353,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color:  #000000 !important;
 }
 
 .text-primary {
